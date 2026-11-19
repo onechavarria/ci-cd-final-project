@@ -1,3 +1,26 @@
+# CI/CD Final Project
+
+**Proyecto Final de Integración Continua y Entrega Continua (CI/CD)**
+
+Proyecto desarrollado para el curso de IBM en Coursera.
+
+## Objetivo
+
+Implementar un pipeline de integración continua con GitHub Actions y un pipeline de entrega continua utilizando Tekton y Red Hat OpenShift.
+
+## Tecnologías
+
+- Python 3.9
+- Git y GitHub
+- GitHub Actions
+- Flake8
+- Nose
+- Tekton
+- Red Hat OpenShift
+- Docker
+
+---
+
 # CI/CD Tools and Practices Final Project Template
 
 This repository contains the template to be used for the Final Project for the Coursera course **CI/CD Tools and Practices**.
